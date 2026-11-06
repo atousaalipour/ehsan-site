@@ -1,0 +1,14 @@
+INTERIOR DESIGN PROJECT 01 — PHOTO FOLDER
+
+Place the photos for this project directly in this folder.
+
+Required naming:
+  cover.jpg  (optional: thumbnail on the Interior Design page)
+  1.jpg      (first gallery photo; required)
+  2.jpg
+  3.jpg
+  4.jpg ...  (continue numbering without gaps)
+
+You can use .jpg, .jpeg, .png or .webp (lowercase extensions).
+If you do not add cover.jpg, the website uses 1.jpg as the project thumbnail.
+The gallery detects the numbered photos automatically; no code changes are needed.

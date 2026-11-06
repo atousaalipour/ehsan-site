@@ -1,0 +1,7 @@
+Put this project's photos in THIS folder.
+
+cover.jpg                 -> image shown on the project box (optional; if missing, 1.jpg is used)
+1.jpg, 2.jpg, 3.jpg ...   -> gallery photos, numbered in order WITHOUT skipping numbers
+
+Allowed extensions (lowercase): .jpg  .jpeg  .png  .webp
+Nothing else to edit: the gallery connects to the files automatically.
